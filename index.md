@@ -1,8 +1,32 @@
-## Welcome to tomorrow56's portfolio
+# Welcome to tomorrow56's portfolio
 
+このページは tomorrow56(またはThousanDIY)の最近の仕事をまとめたポートフォリオです。
 This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
-### Markdown
+# 略歴 career
+
+# 書籍 list of writings
+
+## 単著 single authorship
+
+## 共著 joint authorship
+
+## 連載記事 serialized article
+
+### 月刊I/O(工学社)
+
+## 単発記事 one-shot article
+
+### トランジスタ技術(CQ出版)
+
+## Webメディア web media
+
+
+## つくったもの making
+
+
+## 販売製品 selling
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
