@@ -32,6 +32,8 @@ https://www.kohgakusha.co.jp/io/
 
 ## トランジスタ技術(CQ出版)
 
+https://toragi.cqpub.co.jp/
+
 ### 単発記事 one-shot article
 
 (TBD)
@@ -71,7 +73,7 @@ https://www.kohgakusha.co.jp/io/
 
 ## つくったもの making
 
-[Protopedia(Masawo Yamazaki](https://protopedia.net/prototyper/masawoyamazaki)
+[Protopedia(Masawo Yamazaki)](https://protopedia.net/prototyper/masawoyamazaki)
 
 ## 販売製品 selling
 
