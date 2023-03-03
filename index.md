@@ -18,6 +18,13 @@ This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
 ## 単発記事 one-shot article
 
+### アマゾン著者ページ Author page of amazon
+
+[ThousanDIY](https://www.amazon.co.jp/ThousanDIY/e/B0BL1D62CG)
+
+[山崎雅夫（Masao Yamazaki)](https://www.amazon.co.jp/%E5%B1%B1%E5%B4%8E-%E9%9B%85%E5%A4%AB/e/B0BTT5DVQH)
+
+
 ### トランジスタ技術(CQ出版)
 
 ## Webメディア web media
@@ -42,31 +49,7 @@ This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 ## 販売製品 selling
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomorrow56/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
