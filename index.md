@@ -1,34 +1,41 @@
 # Welcome to tomorrow56's portfolio
 
-このページは tomorrow56(ThousanDIY)の最近の仕事をまとめたポートフォリオです。
+このページは tomorrow56(ThousanDIY)のMaker活動をまとめたポートフォリオです。
 
 This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
 # 略歴 career
 
+(TBD)
+
 # 書籍 list of writings
 
-## 単著 single authorship
-
-## 共著 joint authorship
-
-## 連載記事 serialized article
-
-### 月刊I/O(工学社)
-
-## 単発記事 one-shot article
-
-### アマゾン著者ページ Author page of amazon
+### アマゾン著者ページ Author page of amazon.co.jp
 
 [ThousanDIY](https://www.amazon.co.jp/ThousanDIY/e/B0BL1D62CG)
 
 [山崎雅夫（Masao Yamazaki)](https://www.amazon.co.jp/%E5%B1%B1%E5%B4%8E-%E9%9B%85%E5%A4%AB/e/B0BTT5DVQH)
 
+### [月刊I/O(工学社)](https://www.kohgakusha.co.jp/io/)
+
+#### 連載記事 serialized article
+
+「100円ショップ・ガジェット」を分解してみよう！ (2018年8月号〜 連載中)
+
+#### 単発記事 one-shot article
+
+(TBD)
 
 ### トランジスタ技術(CQ出版)
 
+#### 単発記事 one-shot article
+
+(TBD)
+
 ## Webメディア web media
+
 ### fabcross
+
 [100均電子機器の中身をみてみる——工学社、「『100円ショップ』のガジェットを分解してみる！」発刊(2020/02/19))](https://fabcross.jp/news/2020/20200219_kogakusya_100kinelectricalparts_disassembly.html)
 
 [100均ガジェットの中身を見てみよう——工学社、「『100円ショップ』のガジェットを分解してみる！Part2」発刊(2021/01/20)](https://fabcross.jp/news/2021/20210120_kogakusya_100yenshopgadgetpart2.html)
@@ -43,14 +50,34 @@ This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
 [100均デバイスの中身を解説——工学社、「100円ショップガジェット解体新書」を刊行（2023/01/17)](https://fabcross.jp/news/2023/20230117_kogakusya_100kindevicekaitaishinsho.html)
 
+### i:ENGINEER
+
+[「どうせ100均だろ？」って軽い気持ちで分解したら、 ガジェットの進化に驚いた！(2021/02/08)](https://staff.persol-xtech.co.jp/i-engineer/technology/gadgetdisassembly)
+
+[セリアバイヤー x 100均ガジェット分解人の対談が実現！ 原価ギリギリの狭間でヒット商品が生まれる！？(2021/03/17)](https://staff.persol-xtech.co.jp/i-engineer/product/seriaxyamazaki)
+
+[同じLED電球なのに300円と15,000円？　分解してわかった価格差の”裏側”(2021/07/14)](https://staff.persol-xtech.co.jp/i-engineer/product/leddisassembly)
+
+[分解してわかった！ モバイルバッテリーの選び方(2021/10/14)](https://staff.persol-xtech.co.jp/i-engineer/product/batterydisassembly)
+
+[770円と2,480円のUSB充電器、何が違う？　分解してわかった作り手の苦労と、USBチャージャーの未来(2022/02/21)](https://staff.persol-xtech.co.jp/i-engineer/product/usbdisassembly)
+
+[3種のワイヤレスイヤホンを分解！ 20倍の価格差の裏にあった、作り手のこだわり・思想の違い(2022/04/27)](https://staff.persol-xtech.co.jp/i-engineer/product/earphonedisassembly)
+
+
 ## つくったもの making
 
+[Protopedia(Masawo Yamazaki](https://protopedia.net/prototyper/masawoyamazaki)
 
 ## 販売製品 selling
 
+(TBD)
 
 
+# お問い合わせ Contact
 
-### Support or Contact
+TwitterアカウントにDMでお問い合わせください。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please send DM on twitter.
+
+[twitter(@tomorrow56)](https://twitter.com/tomorrow56)
