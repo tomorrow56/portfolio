@@ -10,25 +10,29 @@ This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
 # 書籍 list of writings
 
+## 単行本
+
 ### アマゾン著者ページ Author page of amazon.co.jp
 
 [ThousanDIY](https://www.amazon.co.jp/ThousanDIY/e/B0BL1D62CG)
 
 [山崎雅夫（Masao Yamazaki)](https://www.amazon.co.jp/%E5%B1%B1%E5%B4%8E-%E9%9B%85%E5%A4%AB/e/B0BTT5DVQH)
 
-### [月刊I/O(工学社)](https://www.kohgakusha.co.jp/io/)
+## 月刊I/O(工学社)
 
-#### 連載記事 serialized article
+https://www.kohgakusha.co.jp/io/
+
+### 連載記事 serialized article
 
 「100円ショップ・ガジェット」を分解してみよう！ (2018年8月号〜 連載中)
 
-#### 単発記事 one-shot article
+### 単発記事 one-shot article
 
 (TBD)
 
-### トランジスタ技術(CQ出版)
+## トランジスタ技術(CQ出版)
 
-#### 単発記事 one-shot article
+### 単発記事 one-shot article
 
 (TBD)
 
