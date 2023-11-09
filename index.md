@@ -72,7 +72,7 @@ https://toragi.cqpub.co.jp/
 
 ### その他
 
-[クローズアップ現代「“100円均一“もう限界！？実は大ピンチのワケ」( 2022年4月13日)](https://www.nhk.jp/p/gendai/ts/R7Y6NGLJ6G/episode/te/G7N7K65Q22/)
+[クローズアップ現代「“100円均一“もう限界！？実は大ピンチのワケ」(2022年4月13日)](https://www.nhk.jp/p/gendai/ts/R7Y6NGLJ6G/episode/te/G7N7K65Q22/)
 
 ## つくったもの making
 
