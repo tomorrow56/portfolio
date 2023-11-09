@@ -38,7 +38,7 @@ https://toragi.cqpub.co.jp/
 
 (TBD)
 
-## Webメディア web media
+## メディア media
 
 ### fabcross
 
@@ -70,12 +70,19 @@ https://toragi.cqpub.co.jp/
 
 [3種のワイヤレスイヤホンを分解！ 20倍の価格差の裏にあった、作り手のこだわり・思想の違い(2022/04/27)](https://staff.persol-xtech.co.jp/i-engineer/product/earphonedisassembly)
 
+### その他
+
+[クローズアップ現代「“100円均一“もう限界！？実は大ピンチのワケ」( 2022年4月13日)] (https://www.nhk.jp/p/gendai/ts/R7Y6NGLJ6G/episode/te/G7N7K65Q22/)
 
 ## つくったもの making
 
 [Protopedia(Masawo Yamazaki)](https://protopedia.net/prototyper/masawoyamazaki)
 
 ## 販売製品 selling
+
+[スイッチサイエンス] (https://www.switch-science.com/collections/all/cat:%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%EF%BC%88%E5%A7%94%E8%A8%97%E5%95%86%E5%93%81%EF%BC%89_ThousanDIY)
+
+[BOOTH] (https://thousandiy.booth.pm/)
 
 (TBD)
 
