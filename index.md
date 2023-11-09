@@ -84,13 +84,10 @@ https://toragi.cqpub.co.jp/
 
 [BOOTH](https://thousandiy.booth.pm/)
 
-(TBD)
-
-
 # お問い合わせ Contact
 
-TwitterアカウントにDMでお問い合わせください。
+X(twitter)アカウントにDMでお問い合わせください。
 
-Please send DM on twitter.
+Please send DM on X(twitter).
 
 [twitter(@tomorrow56)](https://twitter.com/tomorrow56)
