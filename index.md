@@ -20,7 +20,7 @@ This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
 ## 月刊I/O(工学社)
 
-https://www.kohgakusha.co.jp/io/
+[公式サイト](https://www.kohgakusha.co.jp/io/)
 
 ### 連載記事 serialized article
 
@@ -32,7 +32,7 @@ https://www.kohgakusha.co.jp/io/
 
 ## トランジスタ技術(CQ出版)
 
-https://toragi.cqpub.co.jp/
+[公式サイト](https://toragi.cqpub.co.jp/)
 
 ### 単発記事 one-shot article
 
