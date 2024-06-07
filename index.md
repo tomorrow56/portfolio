@@ -1,12 +1,20 @@
 # Welcome to tomorrow56's portfolio
 
-このページは tomorrow56(ThousanDIY)のMaker活動をまとめたポートフォリオです。
+このページは tomorrow56(Masawo Yamazaki a.k.a. ThousanDIY)の活動をまとめたポートフォリオです。
 
-This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
+This page is the portfolio of tomorrow56(Masawo Yamazaki a.k.a, ThousanDIY).
 
 # 略歴 career
 
-(TBD)
+山崎　雅夫 (MASAO Yamazaki)
+
+電子回路設計エンジニア、北海道札幌市在住
+
+電器メーカーにてPC向けディスプレイ・車載モニターの開発・設計を担当
+その後半導体設計会社に転職し、映像系インターフェースを中心に機能・性能評価と製品解析を担当
+2018年より月刊I/O(工学社)にて「100円ショップガジェット分解」連載中
+著書『100円ショップのガジェットを分解してみる』 (Part1～Part3)，『100円ショップガジェット解体新書』(工学社)
+『感電上等! ガジェット分解のススメ HYPER』(共著， オーム社)
 
 # 書籍 list of writings
 
@@ -28,15 +36,29 @@ This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
 ### 単発記事 one-shot article
 
-(TBD)
+ Arduino Uno用シールドが使えるESP32ブレークアウト基板 「Unopuino32S」 (2017年11月号, 12月号)
+
+「M5Stack」 ［前編］製品概要と開発環境 (2018年5月号)
+
+「M5Stack」 ［後編］開発環境構築とプログラミング (2018年6月号)
+
+格安電化製品の注意点 (20２２年4月号)
+
+100 均センサーライトで作る「遠隔監視システム」 (2022年8月号)
+
+夏休みの電子工作 「身近で手に入る電子工作の材料」 (2023年8月号)
+
+「大人の自由工作」 100円ショップのガジェットを組み合わせて改造する (2023年9月号)
 
 ## トランジスタ技術(CQ出版)
 
 [公式サイト](https://toragi.cqpub.co.jp/)
 
-### 単発記事 one-shot article
+### 担当記事 article (JST J-GLOBAL 登録情報)
 
-(TBD)
+[ThousanDIY名義](https://jglobal.jst.go.jp/search/anythings#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22ThousanDIY%22%7D)
+
+[山崎雅夫(Masawo Yamazaki)名義](https://jglobal.jst.go.jp/search/articles#%7B%22category%22%3A%222%22%2C%22keyword%22%3A%22%E5%B1%B1%E5%B4%8E%20%E9%9B%85%E5%A4%AB%20%22%2C%22page%22%3A1%2C%22words%22%3A%5B%7B%22groupId%22%3A%22JT%22%2C%22displayVal%22%3A%22%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E6%8A%80%E8%A1%93%22%2C%22searchVal%22%3A%22%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E6%8A%80%E8%A1%93%22%7D%5D%7D)
 
 ## メディア media
 
@@ -86,7 +108,7 @@ This page is the portfolio of tomorrow56(a.k.a ThousanDIY).
 
 # お問い合わせ Contact
 
-X(twitter)アカウントにDMでお問い合わせください。
+X(twitter)アカウント (@tomorrow56) にDMでお問い合わせください。
 
 Please send DM on X(twitter).
 
