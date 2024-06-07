@@ -6,7 +6,7 @@ This page is the portfolio of tomorrow56(Masawo Yamazaki a.k.a, ThousanDIY).
 
 # 略歴 career
 
-山崎　雅夫 (MASAO Yamazaki)
+山崎　雅夫 (MASAWO Yamazaki)
 
 電子回路設計エンジニア、北海道札幌市在住
 
