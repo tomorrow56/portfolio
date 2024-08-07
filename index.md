@@ -57,9 +57,9 @@ This page is the portfolio of tomorrow56(Masawo Yamazaki a.k.a, ThousanDIY).
 
 [山崎雅夫(Masawo Yamazaki)名義](https://jglobal.jst.go.jp/search/articles#%7B%22category%22%3A%222%22%2C%22keyword%22%3A%22%E5%B1%B1%E5%B4%8E%20%E9%9B%85%E5%A4%AB%20%22%2C%22page%22%3A1%2C%22words%22%3A%5B%7B%22groupId%22%3A%22JT%22%2C%22displayVal%22%3A%22%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E6%8A%80%E8%A1%93%22%2C%22searchVal%22%3A%22%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E6%8A%80%E8%A1%93%22%7D%5D%7D)
 
-## メディア media
+# メディア media
 
-### fabcross
+## fabcross
 
 [100均電子機器の中身をみてみる——工学社、「『100円ショップ』のガジェットを分解してみる！」発刊(2020/02/19))](https://fabcross.jp/news/2020/20200219_kogakusya_100kinelectricalparts_disassembly.html)
 
@@ -75,7 +75,7 @@ This page is the portfolio of tomorrow56(Masawo Yamazaki a.k.a, ThousanDIY).
 
 [100均デバイスの中身を解説——工学社、「100円ショップガジェット解体新書」を刊行（2023/01/17)](https://fabcross.jp/news/2023/20230117_kogakusya_100kindevicekaitaishinsho.html)
 
-### i:ENGINEER
+## i:ENGINEER
 
 [「どうせ100均だろ？」って軽い気持ちで分解したら、 ガジェットの進化に驚いた！(2021/02/08)](https://staff.persol-xtech.co.jp/i-engineer/technology/gadgetdisassembly)
 
@@ -89,23 +89,26 @@ This page is the portfolio of tomorrow56(Masawo Yamazaki a.k.a, ThousanDIY).
 
 [3種のワイヤレスイヤホンを分解！ 20倍の価格差の裏にあった、作り手のこだわり・思想の違い(2022/04/27)](https://staff.persol-xtech.co.jp/i-engineer/product/earphonedisassembly)
 
-### その他
+## その他
 
 [クローズアップ現代「“100円均一“もう限界！？実は大ピンチのワケ」(2022年4月13日, NHK)](https://www.nhk.jp/p/gendai/ts/R7Y6NGLJ6G/episode/te/G7N7K65Q22/)
 
 [スマホ分解、楽しさ全開　モノの進化見て触れて (2023年７月８日, 日本経済新聞)](https://www.nikkei.com/article/DGXZQOUC238200T20C23A3000000/)
 
-## つくったもの making
+# セミナー Seminar
+[M5Stackで一緒に作ろう！IoTセンシング・エッジ×クラウド連携システム開発 (ZEPエンジニアリング)](https://www.zep.co.jp/thousandiy/movie/mz-m5b-on1/)
+
+# つくったもの making
 
 [Protopedia(Masawo Yamazaki)](https://protopedia.net/prototyper/masawoyamazaki)
 
-## 販売製品 selling
+# 販売製品 selling
 
 [スイッチサイエンス](https://www.switch-science.com/collections/all/cat:%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%EF%BC%88%E5%A7%94%E8%A8%97%E5%95%86%E5%93%81%EF%BC%89_ThousanDIY)
 
 [BOOTH](https://thousandiy.booth.pm/)
 
-## 受託開発案件 Contract development projects
+# 受託開発案件 Contract development projects
 
 * 無線マイコン(ESP32)を使用したクラウドファンディング案件(電子回路設計・プリント基板設計・ソフトウエア開発・製造対応)
 * 某社マイコンボード向け拡張基板開発案件(電子回路設計・プリント基板設計・ソフトウエア開発)
