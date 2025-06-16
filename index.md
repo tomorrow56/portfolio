@@ -8,6 +8,8 @@ This page is the portfolio of tomorrow56(Masawo Yamazaki a.k.a, ThousanDIY).
 
 山崎　雅夫 (MASAWO Yamazaki)
 
+[Linkedin](https://www.linkedin.com/in/masao-yamazaki-b41038119/)
+
 電子回路設計エンジニア、北海道札幌市在住
 
 * 電器メーカー： PC向けディスプレイ・液晶テレビ・車載モニターの電子回路開発・設計
